@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":40,"versionName":"2.0.3","enabled":true,"outputFile":"app-release-unsigned.apk","fullName":"release","baseName":"release","dirName":""},"path":"AndroidManifest.xml","properties":{"packageId":"org.y20k.covidtracker","split":"","minSdkVersion":"25"}}]

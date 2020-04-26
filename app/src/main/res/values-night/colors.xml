@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- NIGHT THEME COLORS -->
+
+    <color name="app_window_background">@color/covidtracker_grey_darker</color>
+
+    <color name="bottom_navigation_background">@color/covidtracker_black</color>
+    <color name="bottom_navigation_element">@color/covidtracker_grey_light</color>
+    <color name="bottom_navigation_element_selected">@color/covidtracker_blue</color>
+
+    <color name="fab_button_card_text">@color/covidtracker_white</color>
+    <color name="fab_button_card_background">@color/covidtracker_grey_dark</color>
+
+    <color name="location_button_icon">@color/covidtracker_white</color>
+    <color name="location_button_background">@color/covidtracker_black</color>
+
+    <color name="text_default">@color/covidtracker_white</color>
+    <color name="text_lightweight">@color/covidtracker_grey_very_light</color>
+
+    <color name="icon_default">@color/covidtracker_white</color>
+    <color name="icon_lightweight">@color/covidtracker_grey_very_light</color>
+    <color name="icon_star_selected">@color/covidtracker_blue</color>
+
+    <color name="list_card_background">@color/covidtracker_grey_dark</color>
+    <color name="list_card_delete_background">@color/covidtracker_red</color>
+
+    <color name="statistic_sheet_background_expanded">@color/covidtracker_black_85percent</color>
+    <color name="statistic_sheet_background_collapsed">@color/covidtracker_black</color>
+    <color name="statistic_sheet_background_border">@color/covidtracker_grey_dark</color>
+
+</resources>

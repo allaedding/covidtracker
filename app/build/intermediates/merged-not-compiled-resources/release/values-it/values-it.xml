@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="abbreviation_hours">h</string>
+    <string name="abbreviation_minutes">min</string>
+    <string name="abbreviation_seconds">s</string>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Portami a casa"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Torna indietro"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Mostra tutto"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Scelta di un\'app"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"OFF"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ON"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"ALT +"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"CTRL +"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"CANC"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"INVIO"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"FUNZIONE +"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"META +"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"MAIUSC +"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"SPAZIO"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"SYM +"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"MENU +"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Condividi tramite <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <string name="about">Info</string>
+    <string name="about_message">Questo software usa dati delle mappe forniti da OpenStreetMap.org</string>
+    <string name="app_name">covidtracker</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">Visita &lt;b>facebook.com/device&lt;/b> e inserisci il codice mostrato qui sotto.</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">Errore imprevisto durante il download dell\'immagine.</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">L\'accesso alla visualizzazione Web richiede le autorizzazioni Internet</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">Errore AndroidManifest</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">Ti piace</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">Mi piace</string>
+    <string gender="unknown" name="com_facebook_loading">Caricamento in corso…</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">Annulla</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">Accedi</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">Continua con Facebook</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">Accedi con Facebook</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">Esci</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">Esci</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">Accesso effettuato come %1$s</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">Accesso effettuato tramite Facebook</string>
+    <string gender="unknown" name="com_facebook_send_button_text">Invia</string>
+    <string gender="unknown" name="com_facebook_share_button_text">Condividi</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">Per connettere il tuo account, apri l\'app Facebook dal tuo dispositivo mobile e controlla le notifiche.</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- oppure -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">Non sei tu?</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">Continua come %1$s</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">Conferma accesso</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">Il controllo è nelle tue mani: scegli quali informazioni condividere con le app.</string>
+    <string msgid="3209159573327985035" name="copy">"Copia"</string>
+    <string name="cyclemap">Mappa ciclistica</string>
+    <string name="descr_fab_main_start">Pulsante Avvia registrazione</string>
+    <string name="descr_fab_sub_menu_button_clear">Pulsante Cancella</string>
+    <string name="descr_fab_sub_menu_button_resume">Pulsante Riprendi</string>
+    <string name="descr_fab_sub_menu_button_save">Pulsante Salva</string>
+    <string name="descr_map_current_track">Mappatura della traccia corrente</string>
+    <string name="descr_map_last_track">Mappatura dell\'ultima traccia</string>
+    <string name="descr_mark_starred_button">Pulsante Evidenzia come importante</string>
+    <string name="descr_quick_settings_tile_title_start">Avvia registrazione</string>
+    <string name="descr_quick_settings_tile_title_stop">Ferma registrazione</string>
+    <string name="descr_statistics_sheet_delete_button">Pulsante Elimina traccia</string>
+    <string name="descr_statistics_sheet_edit_button">Pulsante Modifica traccia</string>
+    <string name="descr_statistics_sheet_save_button">Pulsante Condividi che permette di esportare come GPX</string>
+    <string name="dialog_error_empty_recording_action_resume">Riprendi la registrazione</string>
+    <string name="dialog_error_empty_recording_message">covidtracker non ha registrato nessun waypoint finora.</string>
+    <string name="dialog_error_empty_recording_title">Impossibile salvare</string>
+    <string name="dialog_generic_button_cancel">Annulla</string>
+    <string name="dialog_generic_button_okay">Ok</string>
+    <string name="dialog_generic_details_button">Mostra dettagli</string>
+    <string name="dialog_rename_track_button">Rinomina</string>
+    <string name="dialog_rename_track_input_hint">Inserisci un nuovo nome</string>
+    <string name="dialog_share_gpx">Condividi il file GPX con</string>
+    <string name="dialog_yes_no_message_delete_non_starred">Rimuovere tutte le registrazioni senza la stellina\? Questa azione non può essere annullata.</string>
+    <string name="dialog_yes_no_message_delete_recording">Rimuovere questa registrazione\?</string>
+    <string name="dialog_yes_no_positive_button_default">Sì</string>
+    <string name="dialog_yes_no_positive_button_delete_non_starred">Rimuovi</string>
+    <string name="dialog_yes_no_positive_button_delete_recording">Rimuovi</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Avanzate"</string>
+    <string name="fab_sub_menu_clear">Cancella</string>
+    <string name="fab_sub_menu_resume">Riprendi</string>
+    <string name="fab_sub_menu_save">Salva</string>
+    <string name="hills">Rilievo</string>
+    <string name="layout_onboarding_description_app_icon">Icona dell\'applicazione covidtracker</string>
+    <string name="map_mode">Tipo mappa</string>
+    <string name="marker_description_accuracy">Precisione</string>
+    <string name="marker_description_time">Ora</string>
+    <string name="my_location">La mia posizione</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Torna indietro"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Apri riquadro di navigazione"</string>
+    <string msgid="478774118347071097" name="not_set">"Non impostato"</string>
+    <string name="notification_channel_recording_description">Visualizza durata e distanza. Opzione per interrompere la registrazione del movimento.</string>
+    <string name="notification_channel_recording_name">Stato della registrazione del movimento</string>
+    <string name="notification_resume">Riprendi</string>
+    <string name="notification_show">Mostra</string>
+    <string name="notification_stop">Ferma</string>
+    <string name="notification_title_covidtracker_not_running">covidtracker non in esecuzione</string>
+    <string name="notification_title_covidtracker_running">covidtracker in esecuzione</string>
+    <string name="pref_accuracy_threshold_summary">Elimina le correzioni di posizione con una precisione maggiore di:</string>
+    <string name="pref_accuracy_threshold_title">Soglia della precisione</string>
+    <string name="pref_advanced_title">Avanzate</string>
+    <string name="pref_delete_non_starred_summary">Rimuovi tutte le registrazioni in \"Tracce\" che non hanno la stellina.</string>
+    <string name="pref_delete_non_starred_title">Rimuovi le registrazioni senza stellina</string>
+    <string name="pref_general_title">Generali</string>
+    <string name="pref_gps_only_summary_gps_and_network">Attualmente utilizza GPS e rete per la localizzazione.</string>
+    <string name="pref_gps_only_summary_gps_only">Attualmente utilizza solo il GPS per la localizzazione.</string>
+    <string name="pref_gps_only_title">Limita al GPS</string>
+    <string name="pref_imperial_measurement_units_summary_imperial">Unità imperiali attualmente in uso (miglia, piedi).</string>
+    <string name="pref_imperial_measurement_units_summary_metric">Unità metriche attualmente in uso (chilometro, metro).</string>
+    <string name="pref_imperial_measurement_units_title">Usa le misure imperiali</string>
+    <string name="pref_maintenance_title">Manutenzione</string>
+    <string name="pref_reset_advanced_summary">Reimposta le impostazioni avanzate ai valori predefiniti.</string>
+    <string name="pref_reset_advanced_title">Resetta</string>
+    <string name="pref_theme_selection_mode_dark">Modalità scura</string>
+    <string name="pref_theme_selection_mode_device_default">Come il dispositivo</string>
+    <string name="pref_theme_selection_mode_light">Modalità chiara</string>
+    <string name="pref_theme_selection_summary">Tema corrente:</string>
+    <string name="pref_theme_selection_title">Tema app</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\"copiato negli appunti."</string>
+    <string name="quick_settings_tile_title_default">Registrazione in corso</string>
+    <string name="quick_settings_tile_title_start">Avvia registrazione</string>
+    <string name="quick_settings_tile_title_stop">Ferma registrazione</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Cerca"</string>
+    <string name="snackbar_message_location_offline">La posizione è disattivata. covidtracker non funzionerà.</string>
+    <string name="snackbar_message_location_permission_denied">Permesso alla posizione non concesso. covidtracker non funzionerà.</string>
+    <string name="statistics_sheet_p_distance">Distanza totale:</string>
+    <string name="statistics_sheet_p_duration">Durata totale:</string>
+    <string name="statistics_sheet_p_max_altitude">Waypoint più alto:</string>
+    <string name="statistics_sheet_p_min_altitude">Waypoint più basso:</string>
+    <string name="statistics_sheet_p_negative_elevation">Elevazione (in discesa):</string>
+    <string name="statistics_sheet_p_positive_elevation">Elevazione (in salita):</string>
+    <string name="statistics_sheet_p_recording_paused">Registrazione messa in pausa:</string>
+    <string name="statistics_sheet_p_recording_start">Registrazione avviata:</string>
+    <string name="statistics_sheet_p_recording_stop">Registrazione interrotta:</string>
+    <string name="statistics_sheet_p_steps">Passi:</string>
+    <string name="statistics_sheet_p_steps_no_pedometer">pedometro non disponibile</string>
+    <string name="statistics_sheet_p_waypoints">Waypoint registrati:</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="tab_map">Mappa</string>
+    <string name="tab_settings">Impostazioni</string>
+    <string name="tab_tracks">Tracce</string>
+    <string name="toast_message_elevation_info">Suggerimento: L\'accuratezza dei dati dell\'altitudine dipende dal tuo dispositivo. Sono misurate la salita e la discesa di tutto il percorso.</string>
+    <string name="toast_message_install_file_helper">Incapace di salvare. Si prega di installare prima un gestore di file.</string>
+    <string name="toast_message_save_gpx">Salvataggio registrazione come GPX.</string>
+    <string name="topo">Sentieri</string>
+    <string name="track_list_onboarding_h1_part_1">Le tue tracce registrate</string>
+    <string name="track_list_onboarding_h1_part_2">… verranno mostrate qui.</string>
+    <string name="unknown">Sconosciuta</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"OFF"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ON"</string>
+</resources>

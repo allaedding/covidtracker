@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Set AppCompat’s colors -->
+        <item name="colorPrimary">@color/covidtracker_grey_very_light</item>
+        <item name="colorPrimaryDark">@color/covidtracker_white</item>
+        <item name="colorAccent">@color/covidtracker_blue</item>
+
+        <!-- Don't show white status bar -->
+        <item name="android:windowTranslucentStatus">true</item>
+
+    </style>
+
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Set AppCompat’s colors -->
+        <item name="colorPrimary">@color/covidtracker_green</item>
+        <item name="colorPrimaryDark">@color/covidtracker_grey_darker</item>
+        <item name="colorAccent">@color/covidtracker_blue</item>
+
+        <!-- Show white status bar -->
+        <item name="android:windowTranslucentStatus">true</item>
+
+    </style>
+
+
+    <!-- Override button color in AlertDialog -->
+    <style name="AlertDialogTheme" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="buttonBarNegativeButtonStyle">@style/NegativeButtonStyle</item>
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStyle</item>
+    </style>
+    <style name="NegativeButtonStyle" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/text_default</item>
+    </style>
+    <style name="PositiveButtonStyle" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/text_default</item>
+    </style>
+
+
+</resources>

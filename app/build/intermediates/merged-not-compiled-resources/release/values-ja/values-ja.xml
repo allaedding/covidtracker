@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"ホームに戻る"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"前に戻る"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"完了"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"OFF"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ON"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"検索…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="app_name">covidtracker</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b>にアクセスして、上のコードを入力してください。</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">画像のダウンロードで何らかのエラーが発生しました。</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">WebViewにログインするには、インターネットへのアクセスが必要です</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">AndroidManifestエラー</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">「いいね！」しました</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">いいね！</string>
+    <string gender="unknown" name="com_facebook_loading">読み込み中です…</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">キャンセル</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">ログイン</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">Facebookでログイン</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">Facebookでログイン</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">ログアウト</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">ログアウト</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">%1$sとしてログイン中</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">Facebookでログイン中</string>
+    <string gender="unknown" name="com_facebook_send_button_text">送信</string>
+    <string gender="unknown" name="com_facebook_share_button_text">シェア</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">アカウントをリンクするには、モバイル機器でFacebookアプリを開いて、お知らせをご確認ください。</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- または -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">別のアカウントでログイン</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">%1$sとしてログイン</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">ログインを実行</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">アプリと共有する情報をコントロールすることができます。</string>
+    <string msgid="3209159573327985035" name="copy">"コピー"</string>
+    <string name="descr_fab_main_start">記録開始ボタン</string>
+    <string name="descr_fab_sub_menu_button_clear">クリアボタン</string>
+    <string name="descr_fab_sub_menu_button_resume">再開ボタン</string>
+    <string name="descr_fab_sub_menu_button_save">保存ボタン</string>
+    <string name="descr_map_current_track">現在のトレースのマッピング</string>
+    <string name="descr_map_last_track">最後のトレースのマッピング</string>
+    <string name="descr_statistics_sheet_delete_button">トレース削除ボタン</string>
+    <string name="descr_statistics_sheet_save_button">GPX としてエクスポートする共有ボタン</string>
+    <string name="dialog_error_empty_recording_action_resume">記録を再開</string>
+    <string name="dialog_error_empty_recording_message">トラックブックはこれまでウェイポイントを記録していません。</string>
+    <string name="dialog_error_empty_recording_title">保存できません</string>
+    <string name="dialog_share_gpx">GPX ファイルを共有...</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"詳細設定"</string>
+    <string name="fab_sub_menu_clear">クリア</string>
+    <string name="fab_sub_menu_resume">再開</string>
+    <string name="fab_sub_menu_save">保存してクリア</string>
+    <string name="layout_onboarding_description_app_icon">covidtracker アプリ アイコン</string>
+    <string name="marker_description_accuracy">精度</string>
+    <string name="marker_description_time">時間</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"上へ移動"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"ナビゲーション ドロワーを開く"</string>
+    <string msgid="478774118347071097" name="not_set">"未設定"</string>
+    <string name="notification_channel_recording_description">時間と距離を表示します。オプションで移動の記録を停止します。</string>
+    <string name="notification_channel_recording_name">移動記録状態</string>
+    <string name="notification_resume">再開</string>
+    <string name="notification_show">表示</string>
+    <string name="notification_stop">停止</string>
+    <string name="notification_title_covidtracker_not_running">covidtracker は実行していません</string>
+    <string name="notification_title_covidtracker_running">covidtracker 実行中</string>
+    <string msgid="7961817945132860002" name="preference_copied">"「<ns1:g id="SUMMARY">%1$s</ns1:g>」をクリップボードにコピーしました。"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"検索"</string>
+    <string name="snackbar_message_location_offline">位置情報がオフです。covidtracker は動作しません。</string>
+    <string name="statistics_sheet_p_distance">総距離:</string>
+    <string name="statistics_sheet_p_duration">合計時間:</string>
+    <string name="statistics_sheet_p_max_altitude">最高のウェイポイント:</string>
+    <string name="statistics_sheet_p_min_altitude">最低のウェイポイント:</string>
+    <string name="statistics_sheet_p_negative_elevation">標高 (下り):</string>
+    <string name="statistics_sheet_p_positive_elevation">標高 (上り):</string>
+    <string name="statistics_sheet_p_recording_start">記録の開始:</string>
+    <string name="statistics_sheet_p_recording_stop">記録の停止:</string>
+    <string name="statistics_sheet_p_steps">歩数:</string>
+    <string name="statistics_sheet_p_steps_no_pedometer">歩数計は使用できません</string>
+    <string name="statistics_sheet_p_waypoints">記録されたウェイ ポイント:</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>、<ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="tab_map">地図</string>
+    <string name="toast_message_elevation_info">ヒント: 標高データの精度は、お使いのデバイスによって異なります。ルート全体の上り坂と下り坂の標高を測定します。</string>
+    <string name="toast_message_install_file_helper">先にファイルマネージャか GPX トレースビューアーをインストールしてください。</string>
+    <string name="track_list_onboarding_h1_part_1">記録したトレース</string>
+    <string name="track_list_onboarding_h1_part_2">… ここに表示されます。</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"OFF"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ON"</string>
+</resources>

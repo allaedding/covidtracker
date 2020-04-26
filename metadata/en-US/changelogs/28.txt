@@ -1,0 +1,6 @@
+# v1.1.12 - Sheep
+
+**2018-11-04**
+
+- the previous version crashed
+-> you may need to delete your last recording in /Android/data/covidtracker/files/tracks for covidtracker to work again properly - sorry :-(

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="abbreviation_hours">uur</string>
+    <string name="abbreviation_minutes">min</string>
+    <string name="abbreviation_seconds">sec</string>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Gereed"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Alles weergeven"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"UIT"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"AAN"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Functie +"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"spatie"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Delen met <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string name="app_name">covidtracker</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">Ga naar &lt;b>facebook.com/device&lt;/b> en voer de bovenstaande code in.</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">Onverwachte fout bij downloaden van afbeelding.</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">Voor WebView-aanmelding is INTERNET-toestemming vereist</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">AndroidManifest-fout</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">Vind ik leuk</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">Vind ik leuk</string>
+    <string gender="unknown" name="com_facebook_loading">Laden…</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">Annuleren</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">Aanmelden</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">Doorgaan met Facebook</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">Aanmelden met Facebook</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">Afmelden</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">Afmelden</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">Aangemeld als: %1$s</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">Aangemeld via Facebook</string>
+    <string gender="unknown" name="com_facebook_send_button_text">Verzenden</string>
+    <string gender="unknown" name="com_facebook_share_button_text">Delen</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">Als je je account wilt koppelen, open je de Facebook-app op je mobiele apparaat en controleer je je meldingen.</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- OF -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">Ben jij dit niet?</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">Doorgaan als %1$s</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">Aanmelding bevestigen</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">Jij hebt de controle: bepaal welke informatie je met apps wilt delen.</string>
+    <string msgid="3209159573327985035" name="copy">"Kopiëren"</string>
+    <string name="descr_fab_main_start">Start opname-knop</string>
+    <string name="descr_fab_sub_menu_button_clear">Wissen-knop</string>
+    <string name="descr_fab_sub_menu_button_resume">Voortzetten-knop</string>
+    <string name="descr_fab_sub_menu_button_save">Opslaan-knop</string>
+    <string name="descr_map_current_track">Kaart van de huidige track</string>
+    <string name="descr_map_last_track">Kaart van de laatste track</string>
+    <string name="descr_mark_starred_button">Knop \'Toev. aan favorieten\'</string>
+    <string name="descr_quick_settings_tile_title_start">Opname starten</string>
+    <string name="descr_quick_settings_tile_title_stop">Opname stoppen</string>
+    <string name="descr_statistics_sheet_delete_button">Track verwijderknop</string>
+    <string name="descr_statistics_sheet_edit_button">Knop \'Route aanpassen\'</string>
+    <string name="descr_statistics_sheet_save_button">Deelknop met ondersteuning voor het exporteren naar GPX</string>
+    <string name="dialog_error_empty_recording_action_resume">Opname voortzetten</string>
+    <string name="dialog_error_empty_recording_message">covidtracker heeft nog geen locaties opgenomen.</string>
+    <string name="dialog_error_empty_recording_title">Opslaan niet mogelijk</string>
+    <string name="dialog_generic_button_cancel">Annuleren</string>
+    <string name="dialog_generic_button_okay">Oké</string>
+    <string name="dialog_generic_details_button">Details tonen</string>
+    <string name="dialog_rename_track_button">Naam wijzigen</string>
+    <string name="dialog_rename_track_input_hint">Voer een naam in</string>
+    <string name="dialog_share_gpx">Deel GPX bestand met</string>
+    <string name="dialog_yes_no_message_delete_non_starred">Wil je alle niet-favoriete opnames verwijderen\? Dit kan niet ongedaan worden gemaakt.</string>
+    <string name="dialog_yes_no_message_delete_recording">Wil je deze opname verwijderen\?</string>
+    <string name="dialog_yes_no_positive_button_default">Ja</string>
+    <string name="dialog_yes_no_positive_button_delete_non_starred">Verwijderen</string>
+    <string name="dialog_yes_no_positive_button_delete_recording">Verwijderen</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Geavanceerd"</string>
+    <string name="fab_sub_menu_clear">Wissen</string>
+    <string name="fab_sub_menu_resume">Hervatten</string>
+    <string name="fab_sub_menu_save">Opslaan en wissen</string>
+    <string name="layout_onboarding_description_app_icon">covidtracker Pictogram</string>
+    <string name="marker_description_accuracy">Nauwkeurigheid</string>
+    <string name="marker_description_time">Tijd</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Omhoog navigeren"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Zijmenu openen"</string>
+    <string msgid="478774118347071097" name="not_set">"Niet ingesteld"</string>
+    <string name="notification_channel_recording_description">Laat duur en afstand zien. Optie om de gpx-opname te stoppen.</string>
+    <string name="notification_channel_recording_name">GPX-opname status</string>
+    <string name="notification_resume">Hervatten</string>
+    <string name="notification_show">Toon</string>
+    <string name="notification_stop">Stoppen</string>
+    <string name="notification_title_covidtracker_not_running">covidtracker is niet actief</string>
+    <string name="notification_title_covidtracker_running">covidtracker is actief</string>
+    <string name="pref_accuracy_threshold_summary">Locatie-aanpassingen verwerpen indien nauwkeurigheid hoger is dan:</string>
+    <string name="pref_accuracy_threshold_title">Nauwkeurigheidsdrempelwaarde</string>
+    <string name="pref_advanced_title">Geavanceerd</string>
+    <string name="pref_delete_non_starred_summary">Verwijder alle opnames die niet gemarkeerd zijn als favoriet.</string>
+    <string name="pref_delete_non_starred_title">Alle niet-favoriete opnames verwijderen</string>
+    <string name="pref_general_title">Algemeen</string>
+    <string name="pref_gps_only_summary_gps_and_network">Momenteel wordt zowel GPS als het netwerk gebruikt.</string>
+    <string name="pref_gps_only_summary_gps_only">Momenteel wordt alleen GPS gebruikt.</string>
+    <string name="pref_gps_only_title">Alleen GPS gebruiken</string>
+    <string name="pref_imperial_measurement_units_summary_imperial">Momenteel worden imperiale eenheden gebruikt (mijlen, voet).</string>
+    <string name="pref_imperial_measurement_units_summary_metric">Momenteel worden metrische eenheden gebruikt (kilometer, meter).</string>
+    <string name="pref_imperial_measurement_units_title">Imperiale eenheden gebruiken</string>
+    <string name="pref_maintenance_title">Beheer</string>
+    <string name="pref_reset_advanced_summary">Zet de geavanceerde instellingen terug op hun standaardwaarden.</string>
+    <string name="pref_reset_advanced_title">Standaardwaarden</string>
+    <string name="pref_theme_selection_mode_dark">Donker thema</string>
+    <string name="pref_theme_selection_mode_device_default">Ingesteld door batterijbesparing</string>
+    <string name="pref_theme_selection_mode_light">Licht thema</string>
+    <string name="pref_theme_selection_summary">Huidig thema:</string>
+    <string name="pref_theme_selection_title">App-thema</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\'<ns1:g id="SUMMARY">%1$s</ns1:g>\' is gekopieerd naar het klembord."</string>
+    <string name="quick_settings_tile_title_default">Opname</string>
+    <string name="quick_settings_tile_title_start">Opname starten</string>
+    <string name="quick_settings_tile_title_stop">Opname stoppen</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Zoeken"</string>
+    <string name="snackbar_message_location_offline">Locatie is uitgeschakeld; covidtracker zal niet werken.</string>
+    <string name="snackbar_message_location_permission_denied">Locatiemachtiging niet verleend. covidtracker zal niet werken.</string>
+    <string name="statistics_sheet_p_distance">Totale afstand:</string>
+    <string name="statistics_sheet_p_duration">Totale duur:</string>
+    <string name="statistics_sheet_p_max_altitude">Hoogste locatie:</string>
+    <string name="statistics_sheet_p_min_altitude">Laagste locatie:</string>
+    <string name="statistics_sheet_p_negative_elevation">Hoogteverschil (omlaag):</string>
+    <string name="statistics_sheet_p_positive_elevation">Hoogteverschil (omhoog):</string>
+    <string name="statistics_sheet_p_recording_paused">Opname gepauzeerd:</string>
+    <string name="statistics_sheet_p_recording_start">GPX-opname gestart:</string>
+    <string name="statistics_sheet_p_recording_stop">GPX-opname gestopt:</string>
+    <string name="statistics_sheet_p_steps">Gezette stappen:</string>
+    <string name="statistics_sheet_p_steps_no_pedometer">stappenteller niet beschikbaar</string>
+    <string name="statistics_sheet_p_waypoints">Opgeslagen pauzelocaties:</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="tab_map">Kaart</string>
+    <string name="tab_settings">Instellingen</string>
+    <string name="tab_tracks">Routes</string>
+    <string name="toast_message_elevation_info">Tip: de nauwkeurigheid van de hoogtegegevens hangt af van uw apparaat. Het gemiddelde van de gehele route wordt genomen.</string>
+    <string name="toast_message_install_file_helper">Opslaan mislukt. Installeer eerst een bestandsbeheerder.</string>
+    <string name="toast_message_save_gpx">Bezig met opslaan van opname als GPX.</string>
+    <string name="track_list_onboarding_h1_part_1">Opgenomen tracks</string>
+    <string name="track_list_onboarding_h1_part_2">... zal hier verschijnen.</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"UIT"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"AAN"</string>
+</resources>
