@@ -57,11 +57,13 @@ data class Track (@Expose var trackFormatVersion: Int = Keys.CURRENT_TRACK_FORMA
         val readableDateString: String = DateTimeHelper.convertToReadableDate(recordingStart)
         val readableDurationString: String = DateTimeHelper.convertToReadableTime(context, duration)
         return TracklistElement(
-            name = "Instruction Headline 2",
+            name = "Instruction Headline 1",
+            //name = name,
             date = recordingStart,
             dateString = readableDateString,
             length = length,
-            durationString = "Instruction category 2",
+            durationString = "Instruction category 1",
+            //durationString = readableDurationString,
             trackUriString = trackUriString,
             gpxUriString = gpxUriString,
             starred = false
